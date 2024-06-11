@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Tatooine",
+    "terrain": "desert"
+  },
+  {
+    "name": "Alderaan",
+    "terrain": "grasslands, mountains"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "homeworld": 1
+  },
+  {
+    "name": "C-3PO",
+    "homeworld": 1
+  },
+  {
+    "name": "Darth Vader",
+    "homeworld": 1
+  },
+  {
+    "name": "Leia Organa",
+    "homeworld": 2
+  },
+  {
+    "name": "Owen Lars",
+    "homeworld": 1
+  },
+  {
+    "name": "Beru Whitesun Lars",
+    "homeworld": 1
+  },
+  {
+    "name": "R5-D4",
+    "homeworld": 1
+  },
+  {
+    "name": "Biggs Darklighter",
+    "homeworld": 1
+  }
+]
